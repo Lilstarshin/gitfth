@@ -1,3 +1,9 @@
 a:
 b
+<<<<<<< HEAD
 ssh
+=======
+c
+d
+e
+>>>>>>> 0b04ad3abc17d6fdc59293822315376bdfa20db2
